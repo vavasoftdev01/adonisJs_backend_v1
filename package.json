@@ -55,7 +55,8 @@
     "@adonisjs/lucid": "^21.6.1",
     "luxon": "^3.6.0",
     "mysql2": "^3.14.0",
-    "reflect-metadata": "^0.2.2"
+    "reflect-metadata": "^0.2.2",
+    "socket.io": "^4.8.1"
   },
   "hotHook": {
     "boundaries": [
