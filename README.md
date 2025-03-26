@@ -22,11 +22,11 @@ $ npm run dev
  - E2E Testing
 
 ## Todo/s:
- - [ ] Migration
+ - [x] Migration
  - [ ] Global Logger
  - [ ] SocketIO and HTTP server
  - [ ] EventEmitter2 integration
- - [ ] Model Generation and build
+ - [x] Model Generation and build
  - [ ] Mikro-service Integration
  - [ ] Data Encrypt/Decryptor (Jose.js)
  - [ ] Swagger Docs
