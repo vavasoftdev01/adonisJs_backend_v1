@@ -7,6 +7,9 @@
 |
 */
 
+import SamplesController from '#controllers/samples_controller'
 import router from '@adonisjs/core/services/router'
 
 router.get('/', async () => 'It works!')
+
+router.resource('ado-crud', SamplesController)
